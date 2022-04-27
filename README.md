@@ -1,4 +1,4 @@
-# Naive Bayes classifier
+# Unigram and bigram language models, Naive Bayes classifier
 2021 first project of Computational linguistics course of UCLouvain.
 
 ## Corpus
